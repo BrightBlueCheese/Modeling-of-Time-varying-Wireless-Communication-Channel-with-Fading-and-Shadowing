@@ -1,4 +1,4 @@
-# The Role of Model Architecture and Scale in Predicting Molecular Properties: Insights from Fine-Tuning RoBERTa, BART, and LLaMA
+# Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing 
 
 <!-- This repository is the official implementation of [Modeling of Time-varying Wireless Communication Channel with Fading and Shadowing](https://arxiv.org/abs/2405.00949).  -->
 This repository is the official implementation of [Modeling of Time-varying Wireless Communication Channel with Fading and Shadowing](Not yet uploaded). 
